@@ -69,11 +69,11 @@ export const Navbar: React.FC<NavbarProps> = ({
                 letterSpacing: '0.05em',
                 textTransform: 'uppercase',
               }}>
-                PostgreSQL
+                Add Your Task
               </span>
             </div>
             <p style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-              Full-Stack Task Management Dashboard
+              Task Management Dashboard
             </p>
           </div>
         </div>

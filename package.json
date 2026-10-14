@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "db:init": "node scripts/init-db.mjs",
+    "db:seed": "node scripts/seed.mjs",
     "test:api": "node scripts/test-api.mjs"
   },
   "dependencies": {
