@@ -2,6 +2,9 @@
 
 A production-ready, full-stack **Task Management Dashboard** built with **Next.js (App Router)**, **React**, **TypeScript**, and **PostgreSQL**. Designed for engineering workflows with persistent storage, real-time filtering, parameterized SQL queries, form validation, and a sleek modern dashboard interface.
 
+## 🔗 Live Deployment (Vercel)
+**Production URL:** [https://task-dashboard-ecru-beta.vercel.app](https://task-dashboard-ecru-beta.vercel.app)
+
 ---
 
 ## 🌟 Key Features & Verification Highlights
